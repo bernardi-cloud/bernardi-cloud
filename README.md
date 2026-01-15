@@ -1,5 +1,5 @@
 <a href="https://www.bernardi.cloud/">
-  <img src="https://raw.githubusercontent.com/pbswengineering/pbswengineering/master/.readme-files/logo-pbsw-github.png"
+  <img src="https://raw.githubusercontent.com/bernardi-cloud/bernardi-cloud/master/.readme-files/logo-pbsw-github.png"
        alt="Paolo Bernardi logo"
        title="Paolo Bernardi"
        align="right"
@@ -10,38 +10,44 @@
 
 Welcome to my GitHub profile.
 
-I'm Paolo: a **PhD student in Computer Science (Quantum Computing)** at the University of Pisa, a **Computer Science high-school teacher**, and a **software engineer** (Ordine degli Ingegneri di Terni, member A1364, Section A, sector C - information engineering).
+I am **Paolo Bernardi**: a **PhD student in Computer Science (Quantum Computing)** at the University of Pisa and a **Computer Science Teacher** at IIS Casagrande-Cesi (Terni). My work bridges the gap between advanced research and high school education.
 
-My work sits at the intersection of **teaching, research, and engineering**. Most of what I build is not public (work/private projects), but this profile collects the parts I can share: tools, experiments, and small utilities that solve real problems.
+I am currently codifying my teaching method as **Hacker-Style Learning (HSL)**: focusing on real artifacts, rapid iteration, and responsibility.
 
-If you're curious about my teaching method, I'm codifying it as **Hacker-Style Learning (HSL)**:
-https://www.bernardi.cloud/hsl
+👉 [Read more about HSL](https://www.bernardi.cloud/hsl)
 
-## Repositories 🔭
+I am also a registered software engineer (Ordine degli Ingegneri di Terni, A1364) with 15+ years of experience in system design, cybersecurity, and privacy.
 
-I'm a language polyglot, but my open-source code is often **Python** (fast feedback, small iterations, quick results).
+## Featured Repositories 🔭
 
-A selection of Python projects:
-- [Photocopieuse](https://github.com/bernarpa/photocopieuse) - a personal assistant that connects to tools like Jira/Confluence/calendar.
-- [PBOTS](https://github.com/bernarpa/pbots) - monitors online bulletin boards and notifies changes via email.
-- [Lilium](https://github.com/bernarpa/lilium) - a dashboard for domestic monitoring appliances.
-- [Hugo Uploader](https://github.com/bernarpa/hugo-uploader) - FTP differential uploader for Hugo-based websites.
+This profile hosts a selection of tools, educational experiments, and research tools and data.
 
-Other notable non-Python tools:
-- [PDF Juggler](https://github.com/bernarpa/pdfjuggler) - a simple Java desktop tool to reorder and remix PDFs.
-- [Photo](https://github.com/bernarpa/photo) - a Go CLI to manage my photo library.
-- [PAES](https://github.com/bernarpa/PAES) - a parallel OpenCL AES implementation.
-- [Little](https://github.com/bernarpa/Little) - a tiny imperative language interpreter in C (literate programming with [nuweb](http://nuweb.sourceforge.net/)).
-- [OpenCV Slideshow](https://github.com/bernarpa/OpenCV-slideshow) - slide changer driven by computer vision (yes, with a green glove).
-- [Parallel-SAT](https://github.com/bernarpa/Parallel-SAT) - an MPI-based SAT solver.
-- [FantaHadoop](https://github.com/bernarpa/FantaHadoop) - football statistics with Hadoop (overkill? probably).
-- [PBCheck](https://github.com/bernarpa/pbcheck) - C# WinForms tool to check installed software, relevant directories and executables in PATH.
+### 🎓 Education & Automation
 
-There's more in the repo list. Some experiments remain private (call it a quality filter): you'll probably never see my Common Lisp Wumpus solver or my OCaml tic-tac-toe.
+Tools built to solve real school problems or demonstrate concepts in class.
 
-## Links 📫
+- [classeviva-tools](https://github.com/bernardi-cloud/classeviva-tools) - Python automation suite for the "Classeviva" electronic registry. A case study in how coding solves bureaucratic friction.
+- [Little](https://github.com/bernardi-cloud/Little) - A tiny imperative language interpreter in C (Literate programming with [nuweb](http://nuweb.sourceforge.net/)). Used to teach interpretation basics.
 
-- Research Website: https://pages.di.unipi.it/bernardi
-- Personal Website: https://www.bernardi.cloud
+### ⚛️ Research Foundations
 
-Feel free to reach out for professional advice, collaboration, or just a quick chat.
+Exploring Quantum Computing, Cybersecurity and HPC.
+
+- [secprop-qcircuit-exec](https://github.com/bernardi-cloud/secprop-qcircuit-exec) Benchmark tools and results for the article "Evaluating Security Properties in the Execution of Quantum Circuits"
+- [0-rtt](https://github.com/bernardi-cloud/0-rtt) 
+Proof of concept for TLS 0-rtt replay attacks 
+- [PAES](https://github.com/bernardi-cloud/PAES) - Parallel AES implementation using **OpenCL** (GPU/CPU).
+- [Parallel-SAT](https://github.com/bernardi-cloud/Parallel-SAT) - An **MPI-based** DPLL SAT solver.
+
+### 🛠 Utilities
+
+- [PBOTS](https://github.com/bernardi-cloud/pbots) - Civic hacking scrapers to monitor online bulletin boards.
+- [Hugo Uploader](https://github.com/bernardi-cloud/hugo-uploader) - FTP differential uploader for Hugo-based websites (powers my personal infrastructure).
+- [Photo](https://github.com/bernardi-cloud/photo) - A Go CLI to manage large photo libraries.
+- [Photocopieuse](https://github.com/bernardi-cloud/photocopieuse) - A personal, very custom, automation tool
+
+## Connect 📫
+
+- **Personal Website:** [bernardi.cloud](https://www.bernardi.cloud)
+- **Academic Page:** [pages.di.unipi.it/bernardi](https://pages.di.unipi.it/bernardi)
+- **LinkedIn:** [in/paolobernardi](https://www.linkedin.com/in/paolobernardi/)
